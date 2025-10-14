@@ -5,6 +5,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um podcast sobre o tema de análise de dados , o Podcast é do nicho corporativo e o subnicho é de análise de dados, o título deve ser simples, cômico e convidativo, e deve fazer referência ao livro A Divina Comédia Paraíso, me liste 5 variações de títulos
+
+Faça um subtítulo referente ao início na jornada no mundo da análise de dados                                                  |
+| conteúdo |  |
 
